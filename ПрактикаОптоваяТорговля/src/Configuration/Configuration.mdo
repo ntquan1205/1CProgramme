@@ -15,6 +15,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.Администратор</defaultRoles>
   <vendor>Нгуен Чонг Куан</vendor>
   <version>1.0.0.0</version>
   <usedMobileApplicationFunctionalities>
@@ -41,4 +42,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.Администратор</roles>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
