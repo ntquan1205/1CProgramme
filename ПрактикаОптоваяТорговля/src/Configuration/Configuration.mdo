@@ -32,6 +32,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <interfaceCompatibilityMode>Version8_5EnableTaxi</interfaceCompatibilityMode>
   <compatibilityMode>8.5.1</compatibilityMode>
   <languages uuid="916a5988-c827-4ad0-8856-32db6641ae8f">
     <name>Русский</name>
@@ -42,5 +43,14 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.Администратор</roles>
+  <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Организации</catalogs>
+  <documents>Document.Покупка</documents>
+  <documents>Document.Продажа</documents>
+  <enums>Enum.ВидыДоговоров</enums>
+  <reports>Report.Продажи</reports>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Продажи</accumulationRegisters>
 </mdclass:Configuration>
