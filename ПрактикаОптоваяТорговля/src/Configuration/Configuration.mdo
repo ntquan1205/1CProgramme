@@ -42,6 +42,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Закупки</subsystems>
+  <subsystems>Subsystem.НСИ</subsystems>
+  <subsystems>Subsystem.Продажи</subsystems>
   <roles>Role.Администратор</roles>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
